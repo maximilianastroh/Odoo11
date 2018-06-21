@@ -1,0 +1,4 @@
+[submodule "gunthercox/ChatterBot"]
+	path = gunthercox/ChatterBot
+	url = git@github.com:gunthercox/ChatterBot.git
+	branch = master
